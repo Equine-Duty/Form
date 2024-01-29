@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "Welcome": "Bienvenue",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "submit": "Envoyer",
+      "cancel": "Annuler"
+    }
+  }
+}
